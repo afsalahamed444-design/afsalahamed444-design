@@ -1,4 +1,5 @@
-# Afzuafzal<a href="https://github.com/ThalhaAfsal">
+# Thalha Afsal Ahamed
+<a href="https://github.com/ThalhaAfsal">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thalha+Afsal+Ahamed+S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+Turning+Ideas+Into+Scalable+Web+Experiences&descAlignY=62&descSize=16" />
 </a>
 
