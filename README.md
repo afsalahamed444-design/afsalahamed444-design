@@ -165,7 +165,7 @@ class ThalhaAfsal:
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| 🎓 B.Sc. Information Technology | The New College, Chennai | 2026 | Pursuing |
+| 🎓 B.Sc. Information Technology | The New College, Chennai | 2026 |  |
 | 📘 HSC (Class XII) | ST. John's Matric Higher Secondary School | 2023 | — |
 | 📗 SSLC (Class X) | ST. John's Matric Higher Secondary School | 2021 | — |
 
