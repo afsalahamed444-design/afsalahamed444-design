@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thalha%20Afsal%20Ahamed%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Building%20impactful%20web%20%26%20data%20solutions&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Thalha+Afsal+%F0%9F%91%8B;Full-Stack+Developer+%7C+Data+Analyst;Building+ATS+Resumes+%26+AI+Platforms;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Thalha+Afsal+Ahamed+%F0%9F%91%8B;Full-Stack+Developer+%7C+Data+Analyst;Building+ATS+Resumes+%26+AI+Platforms;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
 
 <br/>
