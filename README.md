@@ -146,6 +146,7 @@ const thalha = {
 | 📜 | **Data Analytics Essentials** | Cisco Networking Academy — Jun 2026 · SQL, Excel, Tableau, Data Visualization |
 | 📜 | **SQL (Basic) Certification** | HackerRank — Jun 2026 · Queries, Joins, Aggregations, Relational DB |
 | 🎓 | **Full Stack Dev Internship Certificate** | WHY Global Services, Chennai — Feb–Mar 2026 |
+| 🐍 | Python Flask Web Development Internship Certificate | Hywin Engineering & Co — 1–15 Jun 2026 |
 | 🎨 | **UI/UX Design Certification** | Udemy — Jun 2025 |
 | 💼 | **Employability Skills Boot Camp** | The New College — Jan 2026 |
 
