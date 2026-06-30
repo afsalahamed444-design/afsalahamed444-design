@@ -158,7 +158,7 @@ const thalha = {
 
 <div align="center">
 
-| Degree | Institution | Year | Board / Score |
+| Degree | Institution | Year | Board |
 |--------|-------------|------|--------------|
 | **B.Sc. Information Technology** | The New College, Chennai | 2026 | University of Madras |
 | HSC (12th) | St. John's Matric Higher Secondary School | 2023 | State Board |
