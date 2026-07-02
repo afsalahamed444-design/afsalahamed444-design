@@ -132,7 +132,7 @@ const thalha = {
 | [**ResumeForge Pro**](https://github.com/thalhaafsal) | HTML · CSS · JS · Node.js · Express.js · Supabase | Free full-stack ATS resume builder with 5 templates; real-time ATS score checker using JS keyword analysis; API-based auth system |
 | [**AI Career Roadmap Platform**](https://github.com/thalhaafsal) | React.js · Node.js · Express.js | Resume-upload skill extractor; suggests job roles, courses & step-by-step roadmaps; secure API-based authentication |
 | [**Customer Churn Analysis**](https://github.com/thalhaafsal) | Python · Pandas · NumPy · SQL · Excel · Matplotlib · Seaborn | Analyzed 2,000 telecom records; identified 24.9% churn rate & $35K monthly revenue at risk; 20+ SQL queries; 7-chart interactive dashboard; projected churn reduction of 15–20% |
-| [** Sales Performance Dashboard **](https://github.com/thalhaafsal)| Excel · Power BI · SQL · DAX · PivotTables · Power Query | Analyzed 9,500+ sales transactions across 4 regions & 25 SKUs; tracked ₹29.6Cr total revenue with 36.7% profit margin; 7 SQL queries & 15 DAX measures; 5-chart interactive dashboard; identified 15% YoY growth & East India as key expansion opportunity |
+| [ Sales Performance Dashboard ](https://github.com/thalhaafsal)| Excel · Power BI · SQL · DAX · PivotTables · Power Query | Analyzed 9,500+ sales transactions across 4 regions & 25 SKUs; tracked ₹29.6Cr total revenue with 36.7% profit margin; 7 SQL queries & 15 DAX measures; 5-chart interactive dashboard; identified 15% YoY growth & East India as key expansion opportunity |
 
 </div>
 
