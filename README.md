@@ -1,191 +1,179 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thalha%20Afsal%20Ahamed%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Building%20impactful%20web%20%26%20data%20solutions&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Thalha+Afsal+Ahamed+%F0%9F%91%8B;Full-Stack+Developer+%7C+Data+Analyst;Building+ATS+Resumes+%26+AI+Platforms;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Thalha%20Afsal%20Ahamed%20S&fontSize=40&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=55" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+ATS+Resume+Tools+%26+AI+Career+Platforms;Data+Analysis+with+Python+%2B+SQL" alt="Typing SVG" />
+</a>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=greenhouse&logoColor=black)
+
+![Profile Views](https://komarev.com/ghpvc/?username=afsalahamed444-design&color=7dd3fc&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/afsalahamed444-design?style=for-the-badge&color=7dd3fc&label=Followers)
+
 </div>
 
-<br/>
+## 👋 Who I Am
 
-<div align="center">
-  <a href="mailto:afsalahamed444@gmail.com"><img src="https://img.shields.io/badge/Gmail-afsalahamed444-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/thalha-afsal"><img src="https://img.shields.io/badge/LinkedIn-Thalha%20Afsal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/thalhaafsal"><img src="https://img.shields.io/badge/GitHub-thalhaafsal-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=thalhaafsal&style=flat-square&color=70a5fd&label=Profile+Views"/>
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```javascript
+```ts
 const thalha = {
-  name        : "Thalha Afsal Ahamed S",
-  location    : "Chennai, Tamil Nadu 🇮🇳",
-  degree      : "B.Sc. Information Technology — The New College (2026)",
-  role        : ["Full-Stack Developer", "Data Analyst"],
-
-  stack       : ["JavaScript", "Python", "Node.js", "Express.js",
-                 "React.js", "HTML5", "CSS3", "SQL"],
-
-  dataTools   : ["Power BI", "Excel", "Pandas", "NumPy",
-                 "Matplotlib", "Seaborn", "MySQL", "Supabase"],
-
-  currentlyLearning : ["React Advanced Patterns", "Data Visualization",
-                       "Machine Learning Fundamentals"],
-
-  funFact     : "I built a full ATS resume builder… to land a job 😄",
-
-  motto       : () => "Code it. Analyze it. Ship it. 🚀"
+  title: "Full Stack Developer",
+  stack: [
+    "React.js", "Node.js", "Express.js", "Flask",
+    "Python", "Java", "JavaScript",
+    "MySQL", "Supabase"
+  ],
+  launchedProjects: 4,
+  certifications: [
+    "Full Stack Development Internship — WHY Global Services",
+    "Web Development Internship — Hywin Engineering & Co",
+    "SQL (Basic) — HackerRank",
+    "Data Analytics Essentials — Cisco Networking Academy"
+  ],
+  status: "B.Sc. Information Technology, The New College, Chennai (2026)",
+  openTo: "Entry-level Software Developer / Full Stack Developer roles",
 };
 ```
 
-<br clear="right"/>
+## 🚀 Featured Projects
 
----
+### ResumeForge Pro — Full-Stack ATS Resume Builder
 
-## 🛠️ Tech Stack
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=afsalahamed444-design&repo=ResumeForge-Pro&theme=nord&border_color=7dd3fc" alt="ResumeForge Pro"/>
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Tools & Platforms**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
----
-
-
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thalhaafsal&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
-</div>
-
----
-
-
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thalhaafsal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
-
-## 💼 Work Experience
+A full-stack resume builder with 5 customizable templates and a JavaScript-based ATS checker that scores resumes, analyzes keywords, and suggests improvements.
 
 <details>
-<summary><b>🏢 WHY Global Services — Full Stack Developer Intern | Feb 2026 – Mar 2026 | Chennai, India</b></summary>
+<summary><b>📸 Preview</b></summary>
+<br>
 
-<br/>
+<img src="./assets/resumeforge-hero.png" alt="ResumeForge Pro landing page" width="100%"/>
+<p align="center"><i>Landing page — 250K+ resumes built, 5 free premium templates</i></p>
 
-> `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `REST APIs` `SQL` `Debugging`
+<img src="./assets/resumeforge-features.png" alt="ResumeForge Pro features" width="100%"/>
+<p align="center"><i>Live preview, one-click PDF export, ATS-friendly templates — all free</i></p>
 
-- Developed and deployed responsive web applications covering both frontend and backend layers.
-- Gained hands-on experience with API integration and client–server communication in a production environment.
-- Performed database connectivity tasks and debugging across the full stack.
-- Collaborated with the team on SDLC best practices, enhancing code quality and delivery efficiency.
+<img src="./assets/resumeforge-builder.png" alt="ResumeForge Pro live builder" width="100%"/>
+<p align="center"><i>Real-time resume builder with instant live preview</i></p>
+
+<img src="./assets/resumeforge-ats-checker.png" alt="ResumeForge Pro ATS score checker" width="100%"/>
+<p align="center"><i>AI-powered ATS score checker with category-level breakdowns</i></p>
 
 </details>
 
+| Layer | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Node.js, Express.js |
+| Database | Supabase |
+| Auth | JWT-based authentication |
+
+🔗 [Code](https://github.com/afsalahamed444-design/ResumeForge-Pro)
+
 ---
 
-## 🚀 Featured Projects
+### AI Career Roadmap Platform
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=afsalahamed444-design&repo=AI-Career-Roadmap&theme=nord&border_color=7dd3fc" alt="AI Career Roadmap Platform"/>
+
+A React.js application that analyzes resumes and recommends job roles, courses, and personalized learning roadmaps.
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Backend | Node.js, Express.js |
+| Auth | API-based authentication |
+| Version Control | Git / GitHub |
+
+🔗 [Code](https://github.com/afsalahamed444-design/AI-Career-Roadmap)
+
+---
+
+### Customer Churn Analysis
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=afsalahamed444-design&repo=Customer-Churn-Analysis&theme=nord&border_color=7dd3fc" alt="Customer Churn Analysis"/>
+
+Analyzed 2,000+ telecom customer records to identify a 24.9% churn rate and $35K monthly revenue at risk, backed by 20+ MySQL queries and a 7-chart dashboard.
+
+| Layer | Technology |
+|---|---|
+| Analysis | Python, Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Database | MySQL |
+
+🔗 [Code](https://github.com/afsalahamed444-design/Customer-Churn-Analysis)
+
+---
+
+### Sales Performance Dashboard
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=afsalahamed444-design&repo=Sales-Performance-Dashboard&theme=nord&border_color=7dd3fc" alt="Sales Performance Dashboard"/>
+
+Analyzed 9,500+ sales transactions to track ₹29.6Cr revenue, 36.7% profit margin, and 15% YoY growth, with Power BI DAX measures identifying regional performance gaps.
+
+| Layer | Technology |
+|---|---|
+| Analysis | Excel, Power Query, PivotTables |
+| BI / Dashboard | Power BI (DAX, YoY Growth %, RANKX) |
+| Database | MySQL |
+
+🔗 [Code](https://github.com/afsalahamed444-design/Sales-Performance-Dashboard)
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=py,java,js,html,css)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=react,html,css)
+
+**Backend**
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express,flask)
+
+**Database**
+
+![Skills](https://skillicons.dev/icons?i=mysql,supabase)
+
+**Dev Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+
+**Data & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|--------|-------|-----------|
-| [**ResumeForge Pro**](https://github.com/thalhaafsal) | HTML · CSS · JS · Node.js · Express.js · Supabase | Free full-stack ATS resume builder with 5 templates; real-time ATS score checker using JS keyword analysis; API-based auth system |
-| [**AI Career Roadmap Platform**](https://github.com/thalhaafsal) | React.js · Node.js · Express.js | Resume-upload skill extractor; suggests job roles, courses & step-by-step roadmaps; secure API-based authentication |
-| [**Customer Churn Analysis**](https://github.com/thalhaafsal) | Python · Pandas · NumPy · SQL · Excel · Matplotlib · Seaborn | Analyzed 2,000 telecom records; identified 24.9% churn rate & $35K monthly revenue at risk; 20+ SQL queries; 7-chart interactive dashboard; projected churn reduction of 15–20% |
-| [ Sales Performance Dashboard ](https://github.com/thalhaafsal)| Excel · Power BI · SQL · DAX · PivotTables · Power Query | Analyzed 9,500+ sales transactions across 4 regions & 25 SKUs; tracked ₹29.6Cr total revenue with 36.7% profit margin; 7 SQL queries & 15 DAX measures; 5-chart interactive dashboard; identified 15% YoY growth & East India as key expansion opportunity |
+<img src="https://github-readme-stats.vercel.app/api?username=afsalahamed444-design&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsalahamed444-design&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=afsalahamed444-design&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=afsalahamed444-design&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afsalahamed444-design&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph" width="100%"/>
 
 </div>
 
----
-
-## 🏅 Achievements & Certifications
+## 🔗 Connect With Me
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|----|-------------|---------|
-| 📜 | **Data Analytics Essentials** | Cisco Networking Academy — Jun 2026 · SQL, Excel, Tableau, Data Visualization |
-| 📜 | **SQL (Basic) Certification** | HackerRank — Jun 2026 · Queries, Joins, Aggregations, Relational DB |
-| 🎓 | **Full Stack Dev Internship Certificate** | WHY Global Services, Chennai — Feb–Mar 2026 |
-| 🐍 | Python Flask Web Development Internship Certificate | Hywin Engineering & Co — 1–15 Jun 2026 |
-| 🎨 | **UI/UX Design Certification** | Udemy — Jun 2025 |
-| 💼 | **Employability Skills Boot Camp** | The New College — Jan 2026 |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-thalha-afsal-ahamed-120238382)
+[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:afsalahamed444@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afsalahamed444-design)
 
 </div>
 
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Board |
-|--------|-------------|------|--------------|
-| **B.Sc. Information Technology** | The New College, Chennai | 2026 | University of Madras |
-| HSC (12th) | St. John's Matric Higher Secondary School | 2023 | State Board |
-| SSLC (10th) | St. John's Matric Higher Secondary School | 2021 | State Board |
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```
-🧱 Frontend  →  React Advanced Patterns · Component Architecture · Hooks
-📊 Data      →  Power BI DAX · Advanced Tableau · Statistical Modelling
-🤖 AI / ML   →  Machine Learning Fundamentals · Scikit-learn · Model Deployment
-🗄️ Backend   →  REST API Design · Authentication Patterns · Database Optimisation
-```
-
----
-
-<div align="center">
-  <i>"Code it. Analyze it. Ship it. 🚀"</i><br/><br/>
-  <b>Let's connect and build something amazing together!</b><br/><br/>
-  <a href="mailto:afsalahamed444@gmail.com">📧 afsalahamed444@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/thalha-afsal">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/thalhaafsal">🐙 GitHub</a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer" width="100%"/>
