@@ -22,17 +22,17 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Full Stack Developer and B.Sc. Information Technology graduate with internship experience in React.js, Node.js, Express.js, Flask, REST APIs and MySQL.
+Full Stack Developer and B.Sc. Information Technology graduate with internship experience in building responsive web applications, REST APIs, authentication systems and database-driven solutions.
 
-I have built full-stack applications featuring authentication, resume parsing, ATS keyword analysis, role matching and personalized career roadmap functionality.
+I have hands-on experience with React.js, Node.js, Express.js, Flask, JavaScript, Python, Java, MySQL and Supabase. I have developed full-stack applications featuring resume parsing, ATS keyword analysis, authentication, job-role matching and personalized career roadmaps.
 
 * 🔭 Building full-stack and data-driven applications
 * 🌱 Improving my React.js, Node.js, Python and SQL skills
 * 💼 Open to entry-level Software Developer and Full Stack Developer roles
 * 📍 Chennai, India
-* 📫 **[afsalahamed444@gmail.com](mailto:afsalahamed444@gmail.com)**
+* 📫 Reach me at **[afsalahamed444@gmail.com](mailto:afsalahamed444@gmail.com)**
 
 ```javascript
 const thalha = {
@@ -60,147 +60,212 @@ const thalha = {
 
 ## 🚀 Featured Projects
 
-### ResumeForge Pro — Full-Stack ATS Resume Builder
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Key Highlights</th>
+<th>Repository</th>
+</tr>
 
-A full-stack resume builder with five customizable templates and a JavaScript-based ATS checker that analyzes resume content, identifies keywords and provides improvement suggestions.
+<tr>
+<td>
+<strong>ResumeForge Pro</strong><br>
+ATS Resume Builder
+</td>
+<td>
+A full-stack resume builder with five customizable templates and a JavaScript-based ATS checker that analyzes resume content and provides improvement suggestions.
+</td>
+<td>
+HTML<br>
+CSS<br>
+JavaScript<br>
+Node.js<br>
+Express.js<br>
+Supabase<br>
+JWT
+</td>
+<td>
+• Five ATS-friendly templates<br>
+• Real-time keyword analysis<br>
+• Resume scoring<br>
+• Authentication<br>
+• User profile management
+</td>
+<td>
+<a href="https://github.com/afsalahamed444-design/ResumeForge-Pro">View Code</a>
+</td>
+</tr>
 
-**Key Features**
-
-* Developed five customizable and ATS-friendly resume templates
-* Implemented real-time ATS keyword analysis
-* Added resume scoring and improvement suggestions
-* Built authentication and user profile functionality
-* Integrated backend APIs for resume processing
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Supabase` `JWT`
-
-🔗 [View Source Code](https://github.com/afsalahamed444-design/ResumeForge-Pro)
-
----
-
-### AI Career Roadmap Platform
-
+<tr>
+<td>
+<strong>AI Career Roadmap</strong><br>
+Career Recommendation Platform
+</td>
+<td>
 A React.js application that analyzes uploaded resumes and recommends suitable job roles, courses and personalized learning roadmaps.
+</td>
+<td>
+React.js<br>
+Node.js<br>
+Express.js<br>
+REST APIs<br>
+Git<br>
+GitHub
+</td>
+<td>
+• Resume skill extraction<br>
+• Role matching<br>
+• Course recommendations<br>
+• Personalized roadmaps<br>
+• Saved user progress
+</td>
+<td>
+<a href="https://github.com/afsalahamed444-design/AI-Career-Roadmap">View Code</a>
+</td>
+</tr>
 
-**Key Features**
+<tr>
+<td>
+<strong>Customer Churn Analysis</strong><br>
+Telecom Data Analysis
+</td>
+<td>
+A data analytics project that examines telecom customer records to identify churn patterns, customer segments and revenue risk.
+</td>
+<td>
+Python<br>
+Pandas<br>
+NumPy<br>
+MySQL<br>
+Matplotlib<br>
+Seaborn
+</td>
+<td>
+• Analyzed 2,000+ records<br>
+• Identified 24.9% churn<br>
+• Found $35K monthly risk<br>
+• Wrote 20+ SQL queries<br>
+• Created seven charts
+</td>
+<td>
+<a href="https://github.com/afsalahamed444-design/Customer-Churn-Analysis">View Code</a>
+</td>
+</tr>
 
-* Extracts skills and information from uploaded resumes
-* Matches technical skills with job requirements
-* Recommends suitable job roles and courses
-* Generates personalized career roadmaps
-* Allows users to save and revisit their roadmaps
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `REST APIs` `Git` `GitHub`
-
-🔗 [View Source Code](https://github.com/afsalahamed444-design/AI-Career-Roadmap)
+<tr>
+<td>
+<strong>Sales Performance Dashboard</strong><br>
+Business Intelligence Dashboard
+</td>
+<td>
+A Power BI dashboard created to monitor revenue, profitability, year-over-year growth and regional sales performance.
+</td>
+<td>
+Excel<br>
+Power Query<br>
+PivotTables<br>
+Power BI<br>
+DAX<br>
+MySQL
+</td>
+<td>
+• Analyzed 9,500+ transactions<br>
+• Tracked ₹29.6Cr revenue<br>
+• Measured 36.7% profit margin<br>
+• Identified 15% YoY growth<br>
+• Compared regional performance
+</td>
+<td>
+<a href="https://github.com/afsalahamed444-design/Sales-Performance-Dashboard">View Code</a>
+</td>
+</tr>
+</table>
 
 ---
 
-### Customer Churn Analysis
+## 🛠️ Technical Skills
 
-A data analytics project that examines telecom customer behaviour and identifies factors contributing to customer churn.
+### Programming Languages
 
-**Key Highlights**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-* Analyzed more than 2,000 telecom customer records
-* Identified a 24.9% customer churn rate
-* Calculated approximately $35K in monthly revenue at risk
-* Wrote more than 20 MySQL queries
-* Built a seven-chart analytical dashboard
+### Frontend Development
 
-**Tech Stack**
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-`Python` `Pandas` `NumPy` `MySQL` `Matplotlib` `Seaborn`
+### Backend Development
 
-🔗 [View Source Code](https://github.com/afsalahamed444-design/Customer-Churn-Analysis)
-
----
-
-### Sales Performance Dashboard
-
-A business intelligence project created to monitor revenue, profitability, year-over-year growth and regional sales performance.
-
-**Key Highlights**
-
-* Analyzed more than 9,500 sales transactions
-* Tracked ₹29.6 crore in total revenue
-* Measured a 36.7% profit margin
-* Identified 15% year-over-year growth
-* Created Power BI DAX measures for business reporting
-
-**Tech Stack**
-
-`Excel` `Power Query` `PivotTables` `Power BI` `DAX` `MySQL`
-
-🔗 [View Source Code](https://github.com/afsalahamed444-design/Sales-Performance-Dashboard)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Programming Languages">
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend Technologies">
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="Databases">
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ### Development Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ### Data and Analytics
 
-<p align="left">
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-</p>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. Information Technology**
-The New College, Chennai
-2026
+### B.Sc. Information Technology
+
+**The New College, Chennai**
+Graduated in 2026
 
 ---
 
-## 📜 Certifications and Experience
+## 💼 Internship Experience
+
+### Full Stack Development Intern
+
+**WHY Global Services, Chennai**
+
+* Worked on responsive web interfaces and backend functionality.
+* Integrated APIs and connected applications with databases.
+* Gained practical experience in client-server architecture.
+* Used Git and GitHub for version control.
+
+### Web Development Intern
+
+**Hywin Engineering & Co**
+
+* Assisted in developing responsive web pages.
+* Worked with HTML, CSS and JavaScript.
+* Improved understanding of frontend development and web design.
+
+---
+
+## 📜 Certifications
 
 * Full Stack Development Internship — WHY Global Services
 * Web Development Internship — Hywin Engineering & Co
-* SQL Basic Certificate — HackerRank
+* SQL Basic — HackerRank
 * Data Analytics Essentials — Cisco Networking Academy
 
 ---
@@ -222,10 +287,12 @@ The New College, Chennai
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/s-thalha-afsal-ahamed-120238382)
+
 [![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:afsalahamed444@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/afsalahamed444-design)
 
-<br><br>
+<br>
 
 <strong>Open to entry-level Software Developer and Full Stack Developer opportunities.</strong>
 
