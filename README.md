@@ -185,160 +185,158 @@ MySQL
 
 ---
 
-## 🛠️ Tech Stack
+##  🛠️ Tech Stack
 
 ### Languages
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=py" width="45" alt="Python"><br>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"><br>
-<sub><b>Java</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"><br>
-<sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"><br>
-<sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS"><br>
-<sub><b>CSS3</b></sub>
-</td>
-</tr>
-</table>
+<p align="left">
+  <span>
+    <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"><br>
+    <sub><b>Python</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"><br>
+    <sub><b>Java</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"><br>
+    <sub><b>JavaScript</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"><br>
+    <sub><b>HTML5</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"><br>
+    <sub><b>CSS3</b></sub>
+  </span>
+</p>
 
 ### Frontend
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=react" width="45" alt="React"><br>
-<sub><b>React.js</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"><br>
-<sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS"><br>
-<sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"><br>
-<sub><b>JavaScript</b></sub>
-</td>
-</tr>
-</table>
+<p align="left">
+  <span>
+    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React.js"><br>
+    <sub><b>React.js</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"><br>
+    <sub><b>HTML5</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"><br>
+    <sub><b>CSS3</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"><br>
+    <sub><b>JavaScript</b></sub>
+  </span>
+</p>
 
 ### Backend
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"><br>
-<sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js"><br>
-<sub><b>Express.js</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flask" width="45" alt="Flask"><br>
-<sub><b>Flask</b></sub>
-</td>
-</tr>
-</table>
+<p align="left">
+  <span>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"><br>
+    <sub><b>Node.js</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js"><br>
+    <sub><b>Express.js</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask"><br>
+    <sub><b>Flask</b></sub>
+  </span>
+</p>
 
 ### Databases
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"><br>
-<sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=supabase" width="45" alt="Supabase"><br>
-<sub><b>Supabase</b></sub>
-</td>
-</tr>
-</table>
+<p align="left">
+  <span>
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"><br>
+    <sub><b>MySQL</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase"><br>
+    <sub><b>Supabase</b></sub>
+  </span>
+</p>
 
 ### Development Tools
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"><br>
-<sub><b>Git</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"><br>
-<sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"><br>
-<sub><b>VS Code</b></sub>
-</td>
-</tr>
-</table>
+<p align="left">
+  <span>
+    <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"><br>
+    <sub><b>Git</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"><br>
+    <sub><b>GitHub</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"><br>
+    <sub><b>VS Code</b></sub>
+  </span>
+</p>
 
 ### Data and Analytics
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="45" height="45" alt="Power BI"><br>
-<sub><b>Power BI</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"><br>
-<sub><b>Pandas</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"><br>
-<sub><b>NumPy</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"><br>
-<sub><b>Matplotlib</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"><br>
-<sub><b>MySQL</b></sub>
-</td>
-</tr>
+<p align="left">
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="48" height="48" alt="Power BI"><br>
+    <sub><b>Power BI</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" alt="Excel"><br>
+    <sub><b>Excel</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas"><br>
+    <sub><b>Pandas</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy"><br>
+    <sub><b>NumPy</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib"><br>
+    <sub><b>Matplotlib</b></sub>
+  </span>
+</p>
 
-<tr>
-<td align="center" width="90">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"><br>
-<sub><b>Excel</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"><br>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="75" height="45" alt="Seaborn"><br>
-<sub><b>Seaborn</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" alt="Tableau"><br>
-<sub><b>Tableau</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Power Query"><br>
-<sub><b>Power Query</b></sub>
-</td>
-</tr>
-</table>
+<p align="left">
+  <span>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau"><br>
+    <sub><b>Tableau</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="70" height="48" alt="Seaborn"><br>
+    <sub><b>Seaborn</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" alt="Power Query"><br>
+    <sub><b>Power Query</b></sub>
+  </span>
+</p>
 
 ---
 
