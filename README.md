@@ -50,57 +50,41 @@ const thalha = {
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Python, Java, JavaScript, HTML5 and CSS3">
-</p>
-
-<p>
-  <b>Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS3</b>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Programming Languages">
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="React.js, HTML5, CSS3 and JavaScript">
-</p>
-
-<p>
-  <b>React.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript</b>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend Technologies">
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Node.js, Express.js and Flask">
-</p>
-
-<p>
-  <b>Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flask</b>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL and Supabase">
-</p>
-
-<p>
-  <b>MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supabase</b>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="Databases">
 </p>
 
 ### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code">
-</p>
-
-<p>
-  <b>Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code</b>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
 </p>
 
 ### Data and Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Python and MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="48" height="48" alt="Power BI">
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel">
+  &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas">
   &nbsp;
@@ -108,26 +92,9 @@ const thalha = {
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="48" height="48" alt="Power BI">
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Microsoft Excel">
-</p>
-
-<p>
-  <b>Python&nbsp;&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;NumPy&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;&nbsp;&nbsp;Power BI&nbsp;&nbsp;&nbsp;&nbsp;Excel</b>
-</p>
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau">
-  &nbsp;
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="75" height="48" alt="Seaborn">
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Power Query">
 </p>
 
-<p>
-  <b>Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seaborn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Power Query</b>
-</p>
 
 
 
