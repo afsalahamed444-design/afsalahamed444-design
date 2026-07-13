@@ -1,187 +1,47 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thalha%20Afsal%20Ahamed%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Building%20impactful%20web%20%26%20data%20solutions&descAlignY=62&descSize=16" width="100%"/>
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Thalha+Afsal+Ahamed+%F0%9F%91%8B;Full-Stack+Developer+%7C+Data+Analyst;Building+ATS+Resumes+%26+AI+Platforms;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+</div>
 
-# Thalha Afsal Ahamed S.
+<br/>
 
-<h3 align="center">Full Stack Developer</h3>
-
-<p align="center">
-  B.Sc. Information Technology Graduate | React.js | Node.js | Python | MySQL
-</p>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=flat-square\&logoColor=black)
-![Profile Views](https://komarev.com/ghpvc/?username=afsalahamed444-design\&color=7dd3fc\&style=flat-square)
-![Followers](https://img.shields.io/github/followers/afsalahamed444-design?style=flat-square\&color=7dd3fc\&label=Followers)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/s-thalha-afsal-ahamed-120238382)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:afsalahamed444@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/afsalahamed444-design)
-
+<div align="center">
+  <a href="mailto:afsalahamed444@gmail.com"><img src="https://img.shields.io/badge/Gmail-afsalahamed444-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thalha-afsal"><img src="https://img.shields.io/badge/LinkedIn-Thalha%20Afsal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thalhaafsal"><img src="https://img.shields.io/badge/GitHub-thalhaafsal-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=thalhaafsal&style=flat-square&color=70a5fd&label=Profile+Views"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Full Stack Developer and B.Sc. Information Technology graduate with internship experience in building responsive web applications, REST APIs, authentication systems and database-driven solutions.
-
-I have hands-on experience with React.js, Node.js, Express.js, Flask, JavaScript, Python, Java, MySQL and Supabase. I have developed full-stack applications featuring resume parsing, ATS keyword analysis, authentication, job-role matching and personalized career roadmaps.
-
-* 🔭 Building full-stack and data-driven applications
-* 🌱 Improving my React.js, Node.js, Python and SQL skills
-* 💼 Open to entry-level Software Developer and Full Stack Developer roles
-* 📍 Chennai, India
-* 📫 Reach me at **[afsalahamed444@gmail.com](mailto:afsalahamed444@gmail.com)**
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const thalha = {
-  role: "Full Stack Developer",
+  name        : "Thalha Afsal Ahamed S",
+  location    : "Chennai, Tamil Nadu 🇮🇳",
+  degree      : "B.Sc. Information Technology — The New College (2026)",
+  role        : ["Full-Stack Developer", "Data Analyst"],
 
-  skills: {
-    frontend: ["React.js", "HTML", "CSS", "JavaScript"],
-    backend: ["Node.js", "Express.js", "Flask"],
-    languages: ["Python", "Java", "JavaScript"],
-    databases: ["MySQL", "Supabase"],
-    tools: ["Git", "GitHub", "VS Code"]
-  },
+  stack       : ["JavaScript", "Python", "Node.js", "Express.js",
+                 "React.js", "HTML5", "CSS3", "SQL"],
 
-  education: "B.Sc. Information Technology — The New College, Chennai, 2026",
+  dataTools   : ["Power BI", "Excel", "Pandas", "NumPy",
+                 "Matplotlib", "Seaborn", "MySQL", "Supabase"],
 
-  openTo: [
-    "Software Developer",
-    "Full Stack Developer",
-    "Frontend Developer"
-  ]
+  currentlyLearning : ["React Advanced Patterns", "Data Visualization",
+                       "Machine Learning Fundamentals"],
+
+  funFact     : "I built a full ATS resume builder… to land a job 😄",
+
+  motto       : () => "Code it. Analyze it. Ship it. 🚀"
 };
 ```
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Key Highlights</th>
-<th>Repository</th>
-</tr>
-
-<tr>
-<td>
-<strong>ResumeForge Pro</strong><br>
-ATS Resume Builder
-</td>
-<td>
-A full-stack resume builder with five customizable templates and a JavaScript-based ATS checker that analyzes resume content and provides improvement suggestions.
-</td>
-<td>
-HTML<br>
-CSS<br>
-JavaScript<br>
-Node.js<br>
-Express.js<br>
-Supabase<br>
-JWT
-</td>
-<td>
-• Five ATS-friendly templates<br>
-• Real-time keyword analysis<br>
-• Resume scoring<br>
-• Authentication<br>
-• User profile management
-</td>
-<td>
-<a href="https://github.com/afsalahamed444-design/ResumeForge-Pro">View Code</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<strong>AI Career Roadmap</strong><br>
-Career Recommendation Platform
-</td>
-<td>
-A React.js application that analyzes uploaded resumes and recommends suitable job roles, courses and personalized learning roadmaps.
-</td>
-<td>
-React.js<br>
-Node.js<br>
-Express.js<br>
-REST APIs<br>
-Git<br>
-GitHub
-</td>
-<td>
-• Resume skill extraction<br>
-• Role matching<br>
-• Course recommendations<br>
-• Personalized roadmaps<br>
-• Saved user progress
-</td>
-<td>
-<a href="https://github.com/afsalahamed444-design/AI-Career-Roadmap">View Code</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<strong>Customer Churn Analysis</strong><br>
-Telecom Data Analysis
-</td>
-<td>
-A data analytics project that examines telecom customer records to identify churn patterns, customer segments and revenue risk.
-</td>
-<td>
-Python<br>
-Pandas<br>
-NumPy<br>
-MySQL<br>
-Matplotlib<br>
-Seaborn
-</td>
-<td>
-• Analyzed 2,000+ records<br>
-• Identified 24.9% churn<br>
-• Found $35K monthly risk<br>
-• Wrote 20+ SQL queries<br>
-• Created seven charts
-</td>
-<td>
-<a href="https://github.com/afsalahamed444-design/Customer-Churn-Analysis">View Code</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<strong>Sales Performance Dashboard</strong><br>
-Business Intelligence Dashboard
-</td>
-<td>
-A Power BI dashboard created to monitor revenue, profitability, year-over-year growth and regional sales performance.
-</td>
-<td>
-Excel<br>
-Power Query<br>
-PivotTables<br>
-Power BI<br>
-DAX<br>
-MySQL
-</td>
-<td>
-• Analyzed 9,500+ transactions<br>
-• Tracked ₹29.6Cr revenue<br>
-• Measured 36.7% profit margin<br>
-• Identified 15% YoY growth<br>
-• Compared regional performance
-</td>
-<td>
-<a href="https://github.com/afsalahamed444-design/Sales-Performance-Dashboard">View Code</a>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -190,41 +50,57 @@ MySQL
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Python, Java, JavaScript, HTML5 and CSS3">
+</p>
+
+<p>
+  <b>Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS3</b>
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="React.js, HTML5, CSS3 and JavaScript">
+</p>
+
+<p>
+  <b>React.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript</b>
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Node.js, Express.js and Flask">
+</p>
+
+<p>
+  <b>Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Express.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flask</b>
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL and Supabase">
+</p>
+
+<p>
+  <b>MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supabase</b>
 </p>
 
 ### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code">
+</p>
+
+<p>
+  <b>Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code</b>
 </p>
 
 ### Data and Analytics
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="48" height="48" alt="Power BI">
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel">
-  &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau">
+  <img src="https://skillicons.dev/icons?i=py,mysql" alt="Python and MySQL">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas">
   &nbsp;
@@ -232,80 +108,133 @@ MySQL
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib">
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="48" height="48" alt="Power BI">
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Microsoft Excel">
+</p>
+
+<p>
+  <b>Python&nbsp;&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;NumPy&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;&nbsp;&nbsp;Power BI&nbsp;&nbsp;&nbsp;&nbsp;Excel</b>
+</p>
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="75" height="48" alt="Seaborn">
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Power Query">
+</p>
+
+<p>
+  <b>Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seaborn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Power Query</b>
 </p>
 
 
+
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thalhaafsal&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
+</div>
+
+---
+
+
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thalhaafsal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 WHY Global Services — Full Stack Developer Intern | Feb 2026 – Mar 2026 | Chennai, India</b></summary>
+
+<br/>
+
+> `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `REST APIs` `SQL` `Debugging`
+
+- Developed and deployed responsive web applications covering both frontend and backend layers.
+- Gained hands-on experience with API integration and client–server communication in a production environment.
+- Performed database connectivity tasks and debugging across the full stack.
+- Collaborated with the team on SDLC best practices, enhancing code quality and delivery efficiency.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|--------|-------|-----------|
+| [**ResumeForge Pro**](https://github.com/thalhaafsal) | HTML · CSS · JS · Node.js · Express.js · Supabase | Free full-stack ATS resume builder with 5 templates; real-time ATS score checker using JS keyword analysis; API-based auth system |
+| [**AI Career Roadmap Platform**](https://github.com/thalhaafsal) | React.js · Node.js · Express.js | Resume-upload skill extractor; suggests job roles, courses & step-by-step roadmaps; secure API-based authentication |
+| [**Customer Churn Analysis**](https://github.com/thalhaafsal) | Python · Pandas · NumPy · SQL · Excel · Matplotlib · Seaborn | Analyzed 2,000 telecom records; identified 24.9% churn rate & $35K monthly revenue at risk; 20+ SQL queries; 7-chart interactive dashboard; projected churn reduction of 15–20% |
+| [ Sales Performance Dashboard ](https://github.com/thalhaafsal)| Excel · Power BI · SQL · DAX · PivotTables · Power Query | Analyzed 9,500+ sales transactions across 4 regions & 25 SKUs; tracked ₹29.6Cr total revenue with 36.7% profit margin; 7 SQL queries & 15 DAX measures; 5-chart interactive dashboard; identified 15% YoY growth & East India as key expansion opportunity |
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|----|-------------|---------|
+| 📜 | **Data Analytics Essentials** | Cisco Networking Academy — Jun 2026 · SQL, Excel, Tableau, Data Visualization |
+| 📜 | **SQL (Basic) Certification** | HackerRank — Jun 2026 · Queries, Joins, Aggregations, Relational DB |
+| 🎓 | **Full Stack Dev Internship Certificate** | WHY Global Services, Chennai — Feb–Mar 2026 |
+| 🐍 | Python Flask Web Development Internship Certificate | Hywin Engineering & Co — 1–15 Jun 2026 |
+| 🎨 | **UI/UX Design Certification** | Udemy — Jun 2025 |
+| 💼 | **Employability Skills Boot Camp** | The New College — Jan 2026 |
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-### B.Sc. Information Technology
-
-**The New College, Chennai**
-Graduated in 2026
-
----
-
-## 💼 Internship Experience
-
-### Full Stack Development Intern
-
-**WHY Global Services, Chennai**
-
-* Worked on responsive web interfaces and backend functionality.
-* Integrated APIs and connected applications with databases.
-* Gained practical experience in client-server architecture.
-* Used Git and GitHub for version control.
-
-### Web Development Intern
-
-**Hywin Engineering & Co**
-
-* Assisted in developing responsive web pages.
-* Worked with HTML, CSS and JavaScript.
-* Improved understanding of frontend development and web design.
-
----
-
-## 📜 Certifications
-
-* Full Stack Development Internship — WHY Global Services
-* Web Development Internship — Hywin Engineering & Co
-* SQL Basic — HackerRank
-* Data Analytics Essentials — Cisco Networking Academy
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=afsalahamed444-design&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Statistics" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsalahamed444-design&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165">
+| Degree | Institution | Year | Board |
+|--------|-------------|------|--------------|
+| **B.Sc. Information Technology** | The New College, Chennai | 2026 | University of Madras |
+| HSC (12th) | St. John's Matric Higher Secondary School | 2023 | State Board |
+| SSLC (10th) | St. John's Matric Higher Secondary School | 2021 | State Board |
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌱 Currently Learning
+
+```
+🧱 Frontend  →  React Advanced Patterns · Component Architecture · Hooks
+📊 Data      →  Power BI DAX · Advanced Tableau · Statistical Modelling
+🤖 AI / ML   →  Machine Learning Fundamentals · Scikit-learn · Model Deployment
+🗄️ Backend   →  REST API Design · Authentication Patterns · Database Optimisation
+```
+
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/s-thalha-afsal-ahamed-120238382)
-
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:afsalahamed444@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/afsalahamed444-design)
-
-<br>
-
-<strong>Open to entry-level Software Developer and Full Stack Developer opportunities.</strong>
-
+  <i>"Code it. Analyze it. Ship it. 🚀"</i><br/><br/>
+  <b>Let's connect and build something amazing together!</b><br/><br/>
+  <a href="mailto:afsalahamed444@gmail.com">📧 afsalahamed444@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/thalha-afsal">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/thalhaafsal">🐙 GitHub</a>
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=4&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
