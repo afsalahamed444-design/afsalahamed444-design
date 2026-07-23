@@ -26,33 +26,40 @@
 
 ---
 
-## 🧑‍💻 About Me
+---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
-```javascript
-const thalha = {
-  name        : "Thalha Afsal Ahamed S",
-  location    : "Chennai, Tamil Nadu 🇮🇳",
-  degree      : "B.Sc. Information Technology — The New College (2026)",
-  role        : ["Full-Stack Developer", "Data Analyst"],
+<table>
+<tr>
+<td width="62%" valign="top">
 
-  stack       : ["JavaScript", "Python", "Node.js", "Express.js",
-                 "React.js", "HTML5", "CSS3", "SQL"],
+### Hello! I'm Thalha Afsal Ahamed
 
-  dataTools   : ["Power BI", "Excel", "Pandas", "NumPy",
-                 "Matplotlib", "Seaborn", "MySQL", "Supabase"],
+I am a **B.Sc. Information Technology graduate** from Chennai, interested in building practical web applications and working with data.
 
-  currentlyLearning : ["React Advanced Patterns", "Data Visualization",
-                       "Machine Learning Fundamentals"],
+- 💻 Full-Stack Developer and Data Analyst
+- 🎓 B.Sc. Information Technology — The New College, 2026
+- 📍 Chennai, Tamil Nadu, India
+- 🚀 Building web applications, dashboards and data-driven solutions
+- 🌱 Currently improving my Flask, cybersecurity and data-analysis skills
+- 🎯 Seeking entry-level opportunities in software development and cybersecurity
 
-  funFact     : "I built a full ATS resume builder… to land a job 😄",
+</td>
 
-  motto       : () => "Code it. Analyze it. Ship it. 🚀"
-};
-```
+<td width="38%" align="center" valign="middle">
 
-<br clear="right"/>
+<img
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+  width="300"
+  alt="Developer working illustration"
+/>
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
