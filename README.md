@@ -41,7 +41,7 @@ alt="Typing Animation"
 
 <p>
 B.Sc. Information Technology graduate from Chennai with an interest in
-<strong>full-stack development, cybersecurity and data analytics</strong>.
+<strong>full-stack development, and data analytics</strong>.
 I enjoy building practical applications, dashboards and secure digital solutions.
 </p>
 
@@ -149,7 +149,6 @@ I enjoy building practical applications, dashboards and secure digital solutions
   &nbsp;
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="75" height="48" alt="Seaborn">
 </p>
-
 
 
 
