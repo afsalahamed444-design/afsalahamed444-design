@@ -42,13 +42,13 @@ alt="Typing Animation"
 <p>
 B.Sc. Information Technology graduate from Chennai with an interest in
 <strong>full-stack development, and data analytics</strong>.
-I enjoy building practical applications, dashboards and secure digital solutions.
+I enjoy building practical applications, dashboards.
 </p>
 
 <br>
 
 <p>
-💼 <strong>Focus:</strong> Full-Stack Development & Cybersecurity
+💼 <strong>Focus:</strong> Full-Stack Development & Data Analyst
 </p>
 
 <p>
