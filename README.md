@@ -1,15 +1,16 @@
 <!-- Professional Profile Header -->
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Thalha%20Afsal%20Ahamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Data analyst%2&descAlignY=58&descSize=18"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Thalha%20Afsal%20Ahamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20Open%20to%20Work&descAlignY=58&descSize=18"
 />
+
 <div align="center">
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Data Analyst;Python+Developer;Building+Secure+and+Scalable+Applications;Always+Learning+New+Technologies"
-
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Flask;Building+Modern+Web+Applications;Turning+Ideas+Into+Real+Projects;Open+to+Software+Developer+Opportunities"
+alt="Typing Animation"
 />
 
 </div>
