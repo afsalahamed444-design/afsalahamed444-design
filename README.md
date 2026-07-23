@@ -28,38 +28,74 @@
 
 ---
 
-## 👨‍💻 About Me
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-### Hello! I'm Thalha Afsal Ahamed
+<h3>Hi, I'm Thalha Afsal Ahamed</h3>
 
-I am a **B.Sc. Information Technology graduate** from Chennai, interested in building practical web applications and working with data.
+<p>
+B.Sc. Information Technology graduate from Chennai with an interest in
+<strong>full-stack development, cybersecurity and data analytics</strong>.
+I enjoy building practical applications, dashboards and secure digital solutions.
+</p>
 
-- 💻 Full-Stack Developer and Data Analyst
-- 🎓 B.Sc. Information Technology — The New College, 2026
-- 📍 Chennai, Tamil Nadu, India
-- 🚀 Building web applications, dashboards and data-driven solutions
-- 🌱 Currently improving my Flask, cybersecurity and data-analysis skills
-- 🎯 Seeking entry-level opportunities in software development and cybersecurity
+<br>
+
+<p>
+💼 <strong>Focus:</strong> Full-Stack Development & Cybersecurity
+</p>
+
+<p>
+🎓 <strong>Education:</strong> B.Sc. Information Technology, The New College
+</p>
+
+<p>
+📍 <strong>Location:</strong> Chennai, Tamil Nadu, India
+</p>
+
+<p>
+🛠️ <strong>Currently Building:</strong> Secure web applications and monitoring tools
+</p>
+
+<p>
+🌱 <strong>Currently Learning:</strong> Flask, networking and cybersecurity fundamentals
+</p>
+
+<p>
+🎯 <strong>Career Goal:</strong> Entry-level Software Developer or Cybersecurity role
+</p>
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <img
   src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-  width="300"
-  alt="Developer working illustration"
+  width="280"
+  alt="Developer coding"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Open%20to-Opportunities-70A5FD?style=for-the-badge"
+  alt="Open to opportunities"
 />
 
 </td>
 </tr>
 </table>
 
----
+<br>
+
+<p align="center">
+  <i>“Building practical solutions through code, data and security.”</i>
+</p>
 
 ---
 
