@@ -1,18 +1,18 @@
 <!-- Professional Profile Header -->
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Thalha%20Afsal%20Ahamed&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=18&descAlignY=55&animation=fadeIn"
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Thalha%20Afsal%20Ahamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18"
 />
+<div align="center">
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Secure+and+Scalable+Web+Applications;Turning+Data+into+Meaningful+Insights;Creating+Practical+Technology+Solutions"
-  alt="Typing Animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Python+Developer;Building+Secure+and+Scalable+Applications;Always+Learning+New+Technologies"
+alt="Typing Animation"
 />
 
 </div>
-
 <br>
 
 <br/>
@@ -20,7 +20,7 @@
 <div align="center">
   <a href="mailto:afsalahamed444@gmail.com"><img src="https://img.shields.io/badge/Gmail-afsalahamed444-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thalha-afsal"><img src="https://img.shields.io/badge/LinkedIn-Thalha%20Afsal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/thalhaafsal"><img src="https://img.shields.io/badge/GitHub-thalhaafsal-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/afsalahamed444design"><img src="https://img.shields.io/badge/GitHub-afsalahamed444design-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=thalhaafsal&style=flat-square&color=70a5fd&label=Profile+Views"/>
 </div>
 
