@@ -449,47 +449,66 @@ Completed focused website-development training using Python and Flask, with prac
 
 ---
 
-## Contribution Snake
+#### Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afsalahamed444-design/afsalahamed444-design/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afsalahamed444-design/afsalahamed444-design/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/afsalahamed444-design/afsalahamed444-design/output/github-contribution-grid-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/afsalahamed444-design/afsalahamed444-design/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/afsalahamed444-design/afsalahamed444-design/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/afsalahamed444-design/afsalahamed444-design/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
 
 ---
+---
 
 ## Current Focus
 
-```yaml
-Learning:
-  - Advanced Python and backend engineering
-  - Data structures and algorithms
-  - Machine learning fundamentals
-  - Cloud and DevOps foundations
-  - Scalable system design
+```name: Generate Contribution Snake
 
-Building:
-  - Full-stack software products
-  - RESTful backend services
-  - AI-assisted career applications
-  - Data analytics dashboards
-  - Portfolio-ready engineering projects
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
-Exploring:
-  - Generative AI integration
-  - Intelligent recommendation systems
-  - Cloud-native application architecture
-  - Open-source engineering
-  - Automated testing and deployment
+  workflow_dispatch:
 
-Open To:
-  - Software Engineer roles
-  - Full-Stack Developer roles
-  - Python and Backend Developer roles
-  - Junior Data and AI opportunities
-  - Open-source collaboration
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: afsalahamed444-design
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
