@@ -1,63 +1,74 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,45:6D28D9,100:4C1D95&text=THALHA%20AFSAL%20AHAMED%20S&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:0B1020,35:312E81,70:6D28D9,100:111827&text=THALHA%20AFSAL%20AHAMED%20S&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn&stroke=A78BFA&strokeWidth=1"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+scalable+full-stack+applications;Engineering+data-driven+digital+products;Exploring+AI%2FML+and+intelligent+automation;Turning+complex+problems+into+reliable+software" alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Engineering+scalable+full-stack+applications;Building+reliable+backend+systems+and+REST+APIs;Transforming+data+into+intelligent+digital+products;Focused+on+clean+architecture%2C+performance+and+impact"
+    alt="Professional Introduction"
+  />
 </a>
 
 <br/>
 
-![B.Sc. Information Technology](https://img.shields.io/badge/B.Sc.%20Information%20Technology-2026-6D28D9?style=flat-square&logo=academia&logoColor=white)
-![The New College](https://img.shields.io/badge/The%20New%20College-Chennai-4F46E5?style=flat-square&logo=google-scholar&logoColor=white)
-![Location](https://img.shields.io/badge/Chennai-India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/B.Sc.%20Information%20Technology-2026-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" alt="B.Sc. Information Technology"/>
+<img src="https://img.shields.io/badge/The%20New%20College-Chennai-4F46E5?style=flat-square&logo=google-scholar&logoColor=white" alt="The New College"/>
+<img src="https://img.shields.io/badge/Chennai-India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Chennai, India"/>
+<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-312E81?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Software Engineering Roles"/>
 
 <br/><br/>
 
 <a href="#featured-projects">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20Projects-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="View Projects"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:afsalahamed444@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/afsalahamed444-design">
-  <img src="https://img.shields.io/badge/GITHUB-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=afsalahamed444-design&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile Views"/>
 <a href="https://github.com/afsalahamed444-design?tab=followers">
-  <img src="https://img.shields.io/github/followers/afsalahamed444-design?label=FOLLOWERS&style=flat-square&color=4F46E5&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/afsalahamed444-design?label=FOLLOWERS&style=flat-square&color=4F46E5&logo=github" alt="GitHub Followers"/>
 </a>
 <a href="https://github.com/afsalahamed444-design?tab=repositories">
   <img src="https://img.shields.io/github/stars/afsalahamed444-design?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=7C3AED&logo=github" alt="GitHub Stars"/>
 </a>
 
-</div>
+<br/><br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,45:7C3AED,100:4F46E5" alt="Section Divider"/>
+
+</div>
 ---
 
 ## About
 
-I am a **B.Sc. Information Technology graduate and software engineering enthusiast** focused on building reliable, scalable and user-centered digital products.
+I am a **B.Sc. Information Technology graduate** focused on building reliable, scalable and business-driven software products.
 
-My engineering experience spans **full-stack application development, REST API design, authentication, database integration, resume processing, data analytics and intelligent recommendation systems**. I enjoy transforming business requirements into maintainable software through structured problem-solving, clean architecture and iterative product development.
+My experience includes **full-stack development, backend engineering, REST API integration, authentication, database design, resume intelligence and data analytics**. I enjoy converting real-world requirements into maintainable applications through clean code, structured problem-solving and thoughtful product design.
 
-I have built applications using **React.js, JavaScript, Python, Flask, Node.js, Express.js, MySQL and Supabase**, along with analytical solutions using **Pandas, NumPy, Excel, Power BI and SQL**.
+I have worked with **React.js, JavaScript, Python, Flask, Node.js, Express.js, MySQL, Supabase and SQLite**, along with analytics tools and libraries such as **Pandas, NumPy, Excel, Power BI, Matplotlib and Seaborn**.
 
-My long-term direction combines **software engineering, AI/ML, data-driven product development and cloud-native systems**. I approach projects with a product engineering mindset—balancing functionality, performance, usability, security and measurable impact.
+My current direction combines **software engineering, AI-assisted applications, intelligent recommendation systems and data-driven product development**. I approach every project with a product engineering mindset, focusing on **performance, usability, maintainability, security and measurable impact**.
 
 ### Open To
 
-- Entry-level **Software Engineer** and **Full-Stack Developer** opportunities
-- **Python Developer**, **Backend Developer** and **Product Engineering** roles
-- Junior **Data Analyst**, **AI/ML** and intelligent application opportunities
-- Open-source projects, engineering collaborations and technical communities
+<div align="left">
 
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Open%20to%20Roles-6D28D9?style=flat-square&logo=codeforces&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full--Stack%20Development-Open%20to%20Roles-4F46E5?style=flat-square&logo=stackblitz&logoColor=white)
+![Python Backend](https://img.shields.io/badge/Python%20%26%20Backend-Open%20to%20Roles-7C3AED?style=flat-square&logo=python&logoColor=white)
+![Data and AI](https://img.shields.io/badge/Data%20%26%20AI-Open%20to%20Opportunities-312E81?style=flat-square&logo=databricks&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Collaboration-5B21B6?style=flat-square&logo=github&logoColor=white)
+
+</div>
 ---
 
 ## Tech Stack
