@@ -1,51 +1,55 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:0B1020,35:312E81,70:6D28D9,100:111827&text=THALHA%20AFSAL%20AHAMED%20S&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn&stroke=A78BFA&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:0F172A,35:312E81,70:6D28D9,100:1E1B4B&text=Thalha%20Afsal%20Ahamed%20S&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20%26%20AI&descSize=15&descAlignY=59&animation=fadeIn" alt="Profile Header"/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Engineering+scalable+full-stack+applications;Building+reliable+backend+systems+and+REST+APIs;Transforming+data+into+intelligent+digital+products;Focused+on+clean+architecture%2C+performance+and+impact"
-    alt="Professional Introduction"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Building+reliable+and+scalable+software;Engineering+modern+full-stack+applications;Creating+data-driven+digital+products;Exploring+AI-assisted+product+development"
+    alt="Typing Introduction"
   />
 </a>
 
+<p>
+  <strong>B.Sc. Information Technology Graduate</strong>
+  &nbsp;•&nbsp;
+  Chennai, India
+  &nbsp;•&nbsp;
+  Open to Software Engineering Opportunities
+</p>
+
 <br/>
 
-<img src="https://img.shields.io/badge/B.Sc.%20Information%20Technology-2026-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" alt="B.Sc. Information Technology"/>
-<img src="https://img.shields.io/badge/The%20New%20College-Chennai-4F46E5?style=flat-square&logo=google-scholar&logoColor=white" alt="The New College"/>
-<img src="https://img.shields.io/badge/Chennai-India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Chennai, India"/>
-<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-312E81?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Software Engineering Roles"/>
-
-<br/><br/>
-
 <a href="#featured-projects">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="View Projects"/>
+  <img src="https://img.shields.io/badge/Explore%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:afsalahamed444@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/s-thalha-afsal-ahamed-120238382?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/afsalahamed444-design">
-  <img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=afsalahamed444-design&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=afsalahamed444-design&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile Views"/>
 <a href="https://github.com/afsalahamed444-design?tab=followers">
-  <img src="https://img.shields.io/github/followers/afsalahamed444-design?label=FOLLOWERS&style=flat-square&color=4F46E5&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/afsalahamed444-design?label=Followers&style=flat-square&color=4F46E5&logo=github" alt="GitHub Followers"/>
 </a>
 <a href="https://github.com/afsalahamed444-design?tab=repositories">
-  <img src="https://img.shields.io/github/stars/afsalahamed444-design?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=7C3AED&logo=github" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/afsalahamed444-design?affiliations=OWNER&label=Stars&style=flat-square&color=7C3AED&logo=github" alt="GitHub Stars"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,45:7C3AED,100:4F46E5" alt="Section Divider"/>
-
 </div>
+
+---
 ---
 
 ## About
