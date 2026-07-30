@@ -357,36 +357,11 @@ Completed focused website-development training using Python and Flask, with hand
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=afsalahamed444-design&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=afsalahamed444-design&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsalahamed444-design&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" alt="Top Languages"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=afsalahamed444-design&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=afsalahamed444-design&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Engineering%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=afsalahamed444-design&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
 
 </div>
 
