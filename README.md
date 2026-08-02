@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Thalha%20Afsal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/thalhaafsal">
-    <img src="https://img.shields.io/badge/GitHub-thalhaafsal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-afsalahamed444-design-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Secure Web Apps & Dashboards
 </td>
 <td align="center" width="25%">
 <sub><b>🌱 LEARNING</b></sub><br/>
-Flask · Cybersecurity Basics
+Flask ·
 </td>
 <td align="center" width="25%">
 <sub><b>🎯 TARGET ROLE</b></sub><br/>
