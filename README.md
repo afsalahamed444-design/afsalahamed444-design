@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,50:312E81,100:2563EB&text=Thalha%20Afsal%20Ahamed&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Python&descSize=16&descColor=CBD5E1&descAlignY=58" alt="Thalha Afsal Ahamed, Full-Stack Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1220,100:2563EB&text=Thalha%20Afsal%20Ahamed&fontSize=40&fontColor=F8FAFC&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering&descSize=18&descColor=CBD5E1&descAlignY=62" alt="Thalha Afsal Ahamed, Full-Stack Developer | Software Engineering"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=B.Sc.+IT+Graduate+%C2%B7+Class+of+2026;Building+full-stack+web+applications;Open+to+entry-level+Software+Developer+roles" alt="Animated tagline: B.Sc. IT graduate, building full-stack web applications, open to entry-level Software Developer roles"/>
+Building practical web applications and developing reliable software solutions.
 
-<br/>
+<img src="https://img.shields.io/badge/Status-Open_to_work-22C55E?style=flat-square&labelColor=0B1220" alt="Status: open to work"/>
+<img src="https://img.shields.io/badge/Location-Chennai,_India-2563EB?style=flat-square&labelColor=0B1220" alt="Location: Chennai, India"/>
+<img src="https://img.shields.io/badge/Graduate-B.Sc._IT,_2026-2563EB?style=flat-square&labelColor=0B1220" alt="B.Sc. Information Technology graduate, 2026"/>
 
-<a href="mailto:afsalahamed444@gmail.com"><img src="https://img.shields.io/badge/Email-afsalahamed444%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email Thalha"/></a>
-<a href="https://www.linkedin.com/in/thalha-afsal"><img src="https://img.shields.io/badge/LinkedIn-thalha--afsal-2563EB?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn profile"/></a>
-<a href="https://github.com/thalhaafsal"><img src="https://img.shields.io/badge/GitHub-thalhaafsal-2563EB?style=flat-square&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub profile"/></a>
+[Email](mailto:afsalahamed444@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thalha-afsal) · [Projects](#featured-projects)
 
 </div>
 
@@ -16,56 +16,43 @@
 
 ## About
 
-I'm a Chennai-based **Full-Stack Developer** and B.Sc. Information Technology graduate (University of Madras, 2026). I build web applications with **React, Node.js, Express and Flask**, design REST APIs, and work with SQL databases. I also use **Python and Power BI** to turn data into clear insights, as a complement to my software engineering work.
+I'm a B.Sc. Information Technology graduate (University of Madras, 2026) based in Chennai. I completed a full-stack development internship where I worked on responsive interfaces, REST API integration and database connectivity with HTML, CSS, JavaScript, Node.js and Express. I've since built projects with React, Node.js, Flask and Python, and I use SQL and Power BI for data analysis alongside my development work.
 
-I'm currently looking for **entry-level Software Developer, Full-Stack Developer and Associate Software Engineer** roles.
-
-| | |
-|:--|:--|
-| **Focus** | Full-stack web development, REST APIs, databases |
-| **Core stack** | JavaScript · React · Node.js · Express · Flask · Python · SQL |
-| **Experience** | 2 internships (Full-Stack and Python Flask) |
-| **Status** | 🟢 Open to work · Chennai, India |
-
-<sub>Currently exploring: advanced React patterns and machine learning fundamentals.</sub>
+I'm looking for an entry-level **Software Developer**, **Full-Stack Developer** or **Associate Software Engineer** role where I can keep building and learn from an engineering team.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,flask,mysql,supabase,git,github,vscode&theme=dark" alt="Technology icons: Python, Java, JavaScript, HTML, CSS, React, Node.js, Express, Flask, MySQL, Supabase, Git, GitHub, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,py,flask,mysql,git&theme=dark" alt="Core stack: JavaScript, React, Node.js, Express, Python, Flask, MySQL, Git"/>
 </p>
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | Python · Java · JavaScript · SQL · HTML5 · CSS3 |
-| **Frontend** | React.js · HTML5 · CSS3 · JavaScript · Responsive Design |
-| **Backend** | Node.js · Express.js · Flask · REST APIs |
-| **Databases** | MySQL · Supabase |
-| **Tools** | Git · GitHub · Visual Studio Code |
-| **Data Analytics** | Python · Pandas · NumPy · Matplotlib · Excel · Power BI · Tableau |
+- **Languages:** Python, Java, JavaScript, SQL
+- **Web:** HTML5, CSS3, React.js, responsive design
+- **Backend:** Node.js, Express.js, Flask, REST APIs
+- **Databases:** MySQL, Supabase
+- **Tools:** Git, GitHub, Visual Studio Code
+- **Data analytics (complementary):** Pandas, NumPy, Matplotlib, Excel, Power BI, Tableau
 
 ---
 
 ## Experience
 
-**Full Stack Developer Intern** · WHY Global Services, Chennai
-<sub>February 2026 – March 2026</sub>
+### Full Stack Developer Intern
+**WHY Global Services**, Chennai · Feb 2026 – Mar 2026
 
-- Built and deployed responsive web applications covering both frontend and backend.
-- Worked on API integration and client–server communication.
-- Handled database connectivity tasks and debugged issues across the stack.
-- Followed SDLC practices with the team to improve code quality and delivery.
+- Worked on both frontend and backend development tasks.
+- Built responsive web interfaces.
+- Integrated REST APIs and worked on database connectivity.
+- Debugged application issues and learned client–server architecture and collaborative development workflows.
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `REST APIs` `SQL`
 
-<br/>
+### Python Flask Web Development Intern
+**Hywin Engineering & Co** · Jun 2026
 
-**Python Flask Web Development Intern** · Hywin Engineering & Co
-<sub>June 2026</sub>
-
-- Worked on Python backend web development using the Flask framework.
+- Completed an internship focused on Python and Flask web development.
 
 `Python` `Flask`
 
@@ -73,70 +60,49 @@ I'm currently looking for **entry-level Software Developer, Full-Stack Developer
 
 ## Featured Projects
 
-### ResumeForge Pro
-*A full-stack ATS resume builder.*
+### 1. ResumeForge Pro
+A full-stack ATS resume builder that helps users create structured résumés and check their keyword alignment.
 
-- Five professional resume templates
-- Real-time ATS score estimation using predefined JavaScript keyword analysis
+- Five resume templates
+- Rule-based ATS keyword score estimate (an estimate, not a guarantee of passing an applicant tracking system)
 - Resume improvement suggestions
 - API-based authentication
 
 **Stack:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Supabase`
+**Repository:** [View on GitHub](https://github.com/thalhaafsal) <!-- TODO: replace with the exact ResumeForge Pro repository URL -->
 
-[View on GitHub →](https://github.com/thalhaafsal) <!-- TODO: replace with the exact ResumeForge Pro repository URL -->
-
-<br/>
-
-### AI Career Roadmap Platform
-*A career guidance platform that analyzes uploaded resumes and suggests career paths.*
+### 2. AI Career Roadmap Platform
+A career guidance application that analyzes resumes and suggests potential career paths and learning roadmaps.
 
 - Resume-based skill identification
-- Potential job-role recommendations and course suggestions
+- Potential role recommendations and course suggestions
 - Personalized learning roadmaps
 - Authentication and API integration
 
 **Stack:** `React.js` `Node.js` `Express.js`
+**Repository:** [View on GitHub](https://github.com/thalhaafsal) <!-- TODO: replace with the exact AI Career Roadmap Platform repository URL -->
 
-[View on GitHub →](https://github.com/thalhaafsal) <!-- TODO: replace with the exact AI Career Roadmap Platform repository URL -->
+### 3. Customer Churn Analysis
+A telecom analytics project examining customer churn patterns and potential revenue exposure.
 
-<br/>
-
-### Customer Churn Analysis
-*A telecom customer churn analytics project.*
-
-- Analyzed **2,000** customer records and identified a **24.9%** churn rate
-- Estimated **$35,000** in monthly revenue at risk
-- Wrote **20+ SQL queries** and built a **7-chart dashboard**
-- Explored potential churn-reduction strategies
+- 2,000 customer records analyzed
+- 24.9% churn rate identified
+- Estimated $35,000 in monthly revenue at risk
+- 20+ SQL queries and a seven-chart dashboard
 
 **Stack:** `Python` `Pandas` `NumPy` `SQL` `Excel` `Matplotlib` `Seaborn`
+**Repository:** [View on GitHub](https://github.com/thalhaafsal) <!-- TODO: replace with the exact Customer Churn Analysis repository URL -->
 
-[View on GitHub →](https://github.com/thalhaafsal) <!-- TODO: replace with the exact Customer Churn Analysis repository URL -->
+### 4. Sales Performance Dashboard
+A business intelligence project analyzing sales, profitability and regional performance.
 
-<br/>
-
-### Sales Performance Dashboard
-*A business intelligence project analyzing sales performance.*
-
-- Analyzed **9,500+** transactions across **4 regions** and **25 products**
-- Reported **₹29.6 crore** revenue with a **36.7%** profit margin
-- Built **15 DAX measures** and **7 SQL queries**
-- Analyzed reported year-over-year growth of **15%**
+- 9,500+ transactions across 4 regions and 25 products
+- Reported revenue of ₹29.6 crore at a 36.7% profit margin
+- Reported year-over-year growth of 15%
+- 15 DAX measures and 7 SQL queries
 
 **Stack:** `Excel` `Power BI` `SQL` `DAX` `Power Query`
-
-[View on GitHub →](https://github.com/thalhaafsal) <!-- TODO: replace with the exact Sales Performance Dashboard repository URL -->
-
----
-
-## Certifications & Training
-
-- **Data Analytics Essentials**, Cisco Networking Academy · Jun 2026
-- **SQL (Basic) Certification**, HackerRank · Jun 2026
-- **Python Flask Web Development Internship Certificate**, Hywin Engineering & Co · Jun 2026
-- **Full Stack Development Internship Certificate**, WHY Global Services · Feb–Mar 2026
-- **Employability Skills Boot Camp**, The New College · Jan 2026
-- **UI/UX Design Training**, Udemy · Jun 2025
+**Repository:** [View on GitHub](https://github.com/thalhaafsal) <!-- TODO: replace with the exact Sales Performance Dashboard repository URL -->
 
 ---
 
@@ -146,31 +112,39 @@ I'm currently looking for **entry-level Software Developer, Full-Stack Developer
 - **HSC**, St. John's Matric Higher Secondary School · 2023
 - **SSLC**, St. John's Matric Higher Secondary School · 2021
 
+## Certifications & Training
+
+**Certifications**
+- Data Analytics Essentials, Cisco Networking Academy · Jun 2026
+- SQL (Basic), HackerRank · Jun 2026
+
+**Internship certificates**
+- Python Flask Web Development, Hywin Engineering & Co · Jun 2026
+- Full Stack Development, WHY Global Services · Feb – Mar 2026
+
+**Training**
+- Employability Skills Boot Camp, The New College · Jan 2026
+- UI/UX Design, Udemy · Jun 2025
+
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thalhaafsal&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB" alt="GitHub stats for thalhaafsal"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalhaafsal&layout=compact&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages for thalhaafsal"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thalhaafsal&hide_border=true&background=0B1020&ring=38BDF8&fire=2563EB&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak for thalhaafsal"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thalhaafsal&show_icons=true&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB" alt="GitHub statistics for thalhaafsal"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalhaafsal&layout=compact&hide_border=true&border_radius=8&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages for thalhaafsal"/>
 </p>
 
 ---
 
 <div align="center">
 
-## Let's Connect
+## Contact
 
-I'm open to suitable software development opportunities. If you're hiring for a Software Developer or Full-Stack role, I'd love to hear from you.
+I'm open to suitable entry-level software development opportunities and happy to talk about my work.
 
-<a href="mailto:afsalahamed444@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email Thalha"/></a>
-<a href="https://www.linkedin.com/in/thalha-afsal"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="Connect on LinkedIn"/></a>
-<a href="https://github.com/thalhaafsal"><img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Follow on GitHub"/></a>
+[afsalahamed444@gmail.com](mailto:afsalahamed444@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thalha-afsal) · [GitHub](https://github.com/thalhaafsal)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563EB,50:312E81,100:0B1020&section=footer" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2563EB,100:0B1220&section=footer" alt=""/>
 
 </div>
