@@ -1,209 +1,218 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,40:1E3A8A,70:2563EB,100:0EA5E9&text=Thalha%20Afsal%20Ahamed&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20Data%20Enthusiast%20%7C%20Open%20to%20Work&descSize=17&descAlignY=58&animation=fadeIn"
-  alt="Header banner"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Thalha%20Afsal%20Ahamed&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20Data%20Analytics&descSize=18&descAlignY=58&animation=fadeIn" alt="Thalha Afsal Ahamed - Full-Stack Developer"/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;React+%C2%B7+Node.js+%C2%B7+Flask;Building+Modern+Web+Applications;Turning+Ideas+Into+Shipped+Products;Open+to+Software+Developer+Roles"
-  alt="Typing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+Flask;Python+%26+SQL+Data+Analytics;Building+Secure%2C+Scalable+Web+Applications;Open+to+Software+Developer+Roles" alt="Typing animation"/>
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/📍_Chennai,_India-0EA5E9?style=flat-square&labelColor=0F172A" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓_B.Sc._Information_Technology-2563EB?style=flat-square&labelColor=0F172A" alt="Education"/>
-  <img src="https://img.shields.io/badge/💼_Open_to_Opportunities-16A34A?style=flat-square&labelColor=0F172A" alt="Open to work"/>
-</p>
+![Location](https://img.shields.io/badge/Chennai,_India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/B.Sc._Information_Technology-2563EB?style=for-the-badge&logo=academia&logoColor=white)
+![Status](https://img.shields.io/badge/Open_to_Work-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-<p>
-  <a href="mailto:afsalahamed444@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-afsalahamed444-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thalha-afsal">
-    <img src="https://img.shields.io/badge/LinkedIn-Thalha%20Afsal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/thalhaafsal">
-    <img src="https://img.shields.io/badge/GitHub-afsalahamed444-design-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=thalhaafsal&style=flat-square&color=0EA5E9&label=Profile+Views" alt="Profile views"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<sub><b>🛠️ FOCUS</b></sub><br/>
-Full-Stack Development
-</td>
-<td align="center" width="25%">
-<sub><b>⚙️ BUILDING</b></sub><br/>
-Secure Web Apps & Dashboards
-</td>
-<td align="center" width="25%">
-<sub><b>🌱 LEARNING</b></sub><br/>
-Flask ·
-</td>
-<td align="center" width="25%">
-<sub><b>🎯 TARGET ROLE</b></sub><br/>
-Software Developer / Security
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p><i>"Building practical solutions through code, data and security."</i></p>
+<a href="mailto:afsalahamed444@gmail.com"><img src="https://img.shields.io/badge/Email-afsalahamed444@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/thalha-afsal"><img src="https://img.shields.io/badge/LinkedIn-Thalha_Afsal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/thalhaafsal"><img src="https://img.shields.io/badge/GitHub-thalhaafsal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** and recent **B.Sc. Information Technology** graduate (University of Madras, 2026) who builds practical, secure web applications and turns raw data into business insight. I have hands-on internship experience in **React, Node.js, Express and Flask**, plus project work in **Python, SQL, Power BI and Excel** analytics.
+
+| 🎯 Target Role | 🛠️ Core Focus | 🌱 Learning Now | 📍 Location |
+|:---:|:---:|:---:|:---:|
+| Software Developer | Full-Stack Web Apps | React Patterns · ML Fundamentals | Chennai, India |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Programming Languages">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
+**Frontend & Backend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend Technologies">
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Backend
+**Databases & Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies">
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Databases
+**Data & Analytics**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="Databases">
-</p>
-
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
-</p>
-
-### Data and Analytics
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="48" height="48" alt="Power BI">
-  &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel">
-  &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="75" height="48" alt="Seaborn">
-</p>
-
-
-
-
----
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
-<details>
-<summary><b>🏢 WHY Global Services — Full Stack Developer Intern | Feb 2026 – Mar 2026 | Chennai, India</b></summary>
+### Full Stack Developer Intern: WHY Global Services
+📍 Chennai, India &nbsp;|&nbsp; 🗓️ Feb 2026 – Mar 2026
 
-<br/>
+- Built and deployed responsive web applications across both frontend and backend layers.
+- Integrated REST APIs and handled client–server communication in a production environment.
+- Implemented database connectivity and debugged issues across the full stack.
+- Followed SDLC best practices with the team, improving code quality and delivery efficiency.
 
-> `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `REST APIs` `SQL` `Debugging`
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `REST APIs` `SQL`
 
-- Developed and deployed responsive web applications covering both frontend and backend layers.
-- Gained hands-on experience with API integration and client–server communication in a production environment.
-- Performed database connectivity tasks and debugging across the full stack.
-- Collaborated with the team on SDLC best practices, enhancing code quality and delivery efficiency.
+### Python Flask Web Development Intern: Hywin Engineering & Co
+🗓️ 1 Jun 2026 – 15 Jun 2026
 
-</details>
+- Completed a Flask web development internship focused on Python backend development.
+
+`Python` `Flask`
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Stack | Highlights |
-|--------|-------|-----------|
-| [**ResumeForge Pro**](https://github.com/thalhaafsal) | HTML · CSS · JS · Node.js · Express.js · Supabase | Free full-stack ATS resume builder with 5 templates; real-time ATS score checker using JS keyword analysis; API-based auth system |
-| [**AI Career Roadmap Platform**](https://github.com/thalhaafsal) | React.js · Node.js · Express.js | Resume-upload skill extractor; suggests job roles, courses & step-by-step roadmaps; secure API-based authentication |
-| [**Customer Churn Analysis**](https://github.com/thalhaafsal) | Python · Pandas · NumPy · SQL · Excel · Matplotlib · Seaborn | Analyzed 2,000 telecom records; identified 24.9% churn rate & $35K monthly revenue at risk; 20+ SQL queries; 7-chart interactive dashboard; projected churn reduction of 15–20% |
-| [ Sales Performance Dashboard ](https://github.com/thalhaafsal)| Excel · Power BI · SQL · DAX · PivotTables · Power Query | Analyzed 9,500+ sales transactions across 4 regions & 25 SKUs; tracked ₹29.6Cr total revenue with 36.7% profit margin; 7 SQL queries & 15 DAX measures; 5-chart interactive dashboard; identified 15% YoY growth & East India as key expansion opportunity |
+### 📄 ResumeForge Pro
+Free full-stack ATS resume builder.
 
-</div>
+- 5 professional resume templates
+- Real-time ATS score checker using JS keyword analysis
+- API-based authentication system
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Supabase`
+
+[🔗 View Project](https://github.com/thalhaafsal)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 AI Career Roadmap Platform
+Career guidance from an uploaded resume.
+
+- Extracts skills from the uploaded resume
+- Suggests job roles, courses and step-by-step roadmaps
+- Secure API-based authentication
+
+`React.js` `Node.js` `Express.js`
+
+[🔗 View Project](https://github.com/thalhaafsal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📉 Customer Churn Analysis
+Telecom churn analytics with an interactive dashboard.
+
+- Analyzed **2,000** telecom records
+- Found a **24.9%** churn rate and **$35K** monthly revenue at risk
+- Wrote **20+ SQL queries** and built a **7-chart** dashboard
+- Projected **15–20%** churn reduction
+
+`Python` `Pandas` `NumPy` `SQL` `Excel` `Matplotlib` `Seaborn`
+
+[🔗 View Project](https://github.com/thalhaafsal)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Sales Performance Dashboard
+Business intelligence dashboard for sales data.
+
+- Analyzed **9,500+** transactions across 4 regions and 25 SKUs
+- Tracked **₹29.6Cr** revenue at a **36.7%** profit margin
+- Built **15 DAX measures** and **7 SQL queries**
+- Identified **15% YoY growth** and East India as the key expansion opportunity
+
+`Excel` `Power BI` `SQL` `DAX` `Power Query`
+
+[🔗 View Project](https://github.com/thalhaafsal)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Certifications & Achievements
 
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|----|-------------|---------|
-| 📜 | **Data Analytics Essentials** | Cisco Networking Academy — Jun 2026 · SQL, Excel, Tableau, Data Visualization |
-| 📜 | **SQL (Basic) Certification** | HackerRank — Jun 2026 · Queries, Joins, Aggregations, Relational DB |
-| 🎓 | **Full Stack Dev Internship Certificate** | WHY Global Services, Chennai — Feb–Mar 2026 |
-| 🐍 | Python Flask Web Development Internship Certificate | Hywin Engineering & Co — 1–15 Jun 2026 |
-| 🎨 | **UI/UX Design Certification** | Udemy — Jun 2025 |
-| 💼 | **Employability Skills Boot Camp** | The New College — Jan 2026 |
-
-</div>
+| | Certification | Issuer | Date |
+|:-:|---|---|:-:|
+| 📊 | **Data Analytics Essentials** (SQL, Excel, Tableau, Data Visualization) | Cisco Networking Academy | Jun 2026 |
+| 🗄️ | **SQL (Basic) Certification** (Queries, Joins, Aggregations) | HackerRank | Jun 2026 |
+| 💻 | **Full Stack Development Internship Certificate** | WHY Global Services, Chennai | Feb–Mar 2026 |
+| 🐍 | **Python Flask Web Development Internship Certificate** | Hywin Engineering & Co | Jun 2026 |
+| 🎓 | **Employability Skills Boot Camp** | The New College | Jan 2026 |
+| 🎨 | **UI/UX Design Certification** | Udemy | Jun 2025 |
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
-| Degree | Institution | Year | Board |
-|--------|-------------|------|--------------|
+| Degree | Institution | Year | Board / University |
+|---|---|:-:|---|
 | **B.Sc. Information Technology** | The New College, Chennai | 2026 | University of Madras |
 | HSC (12th) | St. John's Matric Higher Secondary School | 2023 | State Board |
 | SSLC (10th) | St. John's Matric Higher Secondary School | 2021 | State Board |
-
-</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-```
-🧱 Frontend  →  React Advanced Patterns · Component Architecture · Hooks
-📊 Data      →  Power BI DAX · Advanced Tableau · Statistical Modelling
-🤖 AI / ML   →  Machine Learning Fundamentals · Scikit-learn · Model Deployment
-🗄️ Backend   →  REST API Design · Authentication Patterns · Database Optimisation
-```
+| Area | Topics |
+|---|---|
+| 🧱 **Frontend** | React advanced patterns · Component architecture · Hooks |
+| 🗄️ **Backend** | REST API design · Authentication patterns · Database optimisation |
+| 📊 **Data** | Power BI DAX · Advanced Tableau · Statistical modelling |
+| 🤖 **AI / ML** | Machine learning fundamentals · Scikit-learn · Model deployment |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thalhaafsal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalhaafsal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=thalhaafsal&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>"Code it. Analyze it. Ship it. 🚀"</i><br/><br/>
-  <b>Let's connect and build something amazing together!</b><br/><br/>
-  <a href="mailto:afsalahamed444@gmail.com">📧 afsalahamed444@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/thalha-afsal">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/thalhaafsal">🐙 GitHub</a>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+### 🤝 Let's Connect
+*I'm actively looking for Software Developer roles. Let's build something great together.*
+
+<a href="mailto:afsalahamed444@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/thalha-afsal"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
