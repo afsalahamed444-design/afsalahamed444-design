@@ -29,7 +29,7 @@
 
 <br/>
 
-I'm a B.Sc. Information Technology graduate (The New College, Chennai, University of Madras, 2026). During a full-stack development internship I worked on responsive interfaces, REST API integration and database connectivity with HTML, CSS, JavaScript, Node.js and Express. I've since built projects with React, Node.js, Flask and Python, and I use SQL and Power BI for data analysis alongside my development work.
+MCA student , B.Sc. Information Technology graduate (The New College, Chennai, University of Madras, 2026). During a full-stack development internship I worked on responsive interfaces, REST API integration and database connectivity with HTML, CSS, JavaScript, Node.js and Express. I've since built projects with React, Node.js, Flask and Python, and I use SQL and Power BI for data analysis alongside my development work.
 
 I'm looking for an entry-level **Software Developer**, **Full-Stack Developer** or **Associate Software Engineer** role where I can keep building and learn from an engineering team.
 
